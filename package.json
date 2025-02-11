@@ -1,0 +1,11 @@
+{
+  "name": "smr-estudio-titulos-formularios-back",
+  "version": "0.1.0",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "@google-cloud/storage": "^7.15.0",
+    "busboy": "^1.6.0",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0"
+  }
+}
